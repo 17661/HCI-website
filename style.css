@@ -1,3 +1,26 @@
 body{
     background-color: rgba(194, 228, 180, 0.151);
-    background-image: -moz-element()
+
+}
+.card{
+    background-color: chocolate;
+    overflow:hidden;
+    margin:20px;
+}
+.card img{
+    float:left;
+    overflow:hidden;
+    padding:20px;
+    widows: 20%;
+}
+.heading{
+    margin: 20px;
+}
+
+
+div {
+    height:100%;
+    width: 100%;
+  }
+
+

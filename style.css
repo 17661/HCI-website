@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: rgba(194, 228, 180, 0.151);
 
@@ -25,31 +24,3 @@ body{
 .p {
     font-size:4/5; 
   }
-=======
-body{
-    background-color: rgba(194, 228, 180, 0.151);
-
-}
-.card{
-    background-color: chocolate;
-    overflow:hidden;
-    margin:20px;
-}
-.card img{
-    float:left;
-    overflow:hidden;
-    padding:20px;
-    widows: 20%;
-}
-.heading{
-    margin: 20px;
-}
-
-
-div {
-    height:100%;
-    width: 100%;
-  }
-
-
->>>>>>> 3aeca6be6bbb8cae6368d752574c97c477fbceb6

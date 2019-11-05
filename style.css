@@ -6,24 +6,21 @@ body{
     background-color: chocolate;
     overflow:hidden;
     margin:20px;
+
 }
 .card img{
     float:left;
     overflow:hidden;
     padding:20px;
-    widows: 20%;
+    height:200px;
+    width:2000x;
+    
 }
 .heading{
     margin: 20px;
 }
 
 
-div {
-    height:100%;
-    width: 100%;
-  }
-
-
-  p {
-    font-size: 0.875em; 
+.p {
+    font-size:4/5; 
   }
